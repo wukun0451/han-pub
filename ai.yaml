@@ -1,0 +1,105 @@
+payload:
+  # AI - OpenAI / ChatGPT
+  - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-KEYWORD,oaiusercontent
+
+  # AI - Anthropic / Claude
+  - DOMAIN-KEYWORD,anthropic.com
+  - DOMAIN-KEYWORD,claude.ai
+
+  # AI - Google Gemini / AI Studio
+  - DOMAIN-KEYWORD,gemini
+  - DOMAIN-KEYWORD,ai.google.dev
+  - DOMAIN-KEYWORD,aistudio.google.com
+  - DOMAIN-KEYWORD,labs.google
+  - DOMAIN,aistudio.google.com
+  - DOMAIN,ai.google.dev
+  - DOMAIN,ai.dev
+  - DOMAIN,gemini.google.com
+  - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN,alkalicore-pa.clients6.google.com
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+
+  # AI - xAI / Grok
+  - DOMAIN-KEYWORD,grok
+  - DOMAIN-KEYWORD,x.ai
+
+  # AI - Perplexity
+  - DOMAIN-KEYWORD,perplexity
+
+  # Google 通用服务
+  - DOMAIN-KEYWORD,googleapis
+  - DOMAIN,www.googleapis.com
+  - DOMAIN,apis.google.com
+  - DOMAIN,www.google.com
+  - DOMAIN,ogs.google.com
+  - DOMAIN,play.google.com
+  - DOMAIN,fonts.googleapis.com
+  - DOMAIN,fonts.gstatic.com
+  - DOMAIN,ssl.gstatic.com
+  - DOMAIN,www.gstatic.com
+  - DOMAIN,encrypted-tbn0.gstatic.com
+  - DOMAIN,encrypted-tbn1.gstatic.com
+  - DOMAIN,encrypted-tbn2.gstatic.com
+  - DOMAIN,encrypted-tbn3.gstatic.com
+  - DOMAIN,lh3.googleusercontent.com
+  - DOMAIN,lh5.googleusercontent.com
+  - DOMAIN,lh3.google.com
+  - DOMAIN,people-pa.clients6.google.com
+  - DOMAIN,waa-pa.clients6.google.com
+  - DOMAIN,jnn-pa.googleapis.com
+  - DOMAIN,developerprofiles-pa.googleapis.com
+  - DOMAIN,content-developerprofiles-pa.googleapis.com
+  - DOMAIN,optimizationguide-pa.googleapis.com
+  - DOMAIN,content-autofill.googleapis.com
+
+  # Google 广告 / 分析 / 跟踪
+  - DOMAIN,www.google-analytics.com
+  - DOMAIN,www.googletagmanager.com
+  - DOMAIN,ogads-pa.clients6.google.com
+  - DOMAIN,static.doubleclick.net
+  - DOMAIN,td.doubleclick.net
+  - DOMAIN,googleads.g.doubleclick.net
+  - DOMAIN,csp.withgoogle.com
+
+  # Google 地图
+  - DOMAIN,maps.googleapis.com
+  - DOMAIN,maps.gstatic.com
+  - DOMAIN,streetviewpixels-pa.googleapis.com
+
+  # YouTube
+  - DOMAIN,www.youtube.com
+  - DOMAIN,i.ytimg.com
+  - DOMAIN,yt3.ggpht.com
+
+  # 技术社区 / StackOverflow
+  - DOMAIN-KEYWORD,askubuntu
+  - DOMAIN-KEYWORD,serverfault
+  - DOMAIN-KEYWORD,stackexchange
+  - DOMAIN-KEYWORD,stackoverflow
+  - DOMAIN-KEYWORD,superuser
+
+  # 社交 / 论坛
+  - DOMAIN-KEYWORD,reddit
+  - DOMAIN-KEYWORD,reddit.com
+  - DOMAIN-KEYWORD,teslaownersonline
+
+  # 新闻 / 资讯
+  - DOMAIN-KEYWORD,techcrunch
+  - DOMAIN-KEYWORD,yahoo
+
+  # 流媒体 / 视频
+  - DOMAIN-KEYWORD,tubi
+  - DOMAIN-KEYWORD,yfsp.tv
+
+  # 第三方服务 / SDK
+  - DOMAIN-KEYWORD,api.segment.io
+  - DOMAIN-KEYWORD,auth0.com
+  - DOMAIN-KEYWORD,browser-intake-datadoghq.com
+  - DOMAIN-KEYWORD,intercom.io
+  - DOMAIN-KEYWORD,intercomcdn
+  - DOMAIN-KEYWORD,launchdarkly.com
+  - DOMAIN-KEYWORD,revenuecat
+  - DOMAIN-KEYWORD,sentry.io
